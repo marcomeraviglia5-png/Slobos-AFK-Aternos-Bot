@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "OIDOCRO",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "uncazzo.aternos.me",
+    "ip": "cavapoo.aternos.host",
     "port": 25636,
     "version": "1.21.1",
     "try-creative": false
