@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "uncazzo.aternos.me
-",
+    "ip": "uncazzo.aternos.me",
     "port": 25636,
     "version": "1.21.11",
     "try-creative": false
