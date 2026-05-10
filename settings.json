@@ -8,7 +8,7 @@
   "server": {
     "ip": "uncazzo.aternos.me",
     "port": 25636,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
