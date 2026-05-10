@@ -25,6 +25,16 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
+      },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 500000,
+      "messages": [
+        "W la pussy",
+        "ocane ha un cane di chi è il cane?",
+        "Di ocane"
+      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
